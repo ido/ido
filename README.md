@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm Ido Rosen.  I work on things that intersect economics/finance, machine learning/"AI", statistics, optimization, and (optionally) distributed systems.  
+I'm Ido Rosen.  I work on things that intersect economics/finance, machine learning/"AI", statistics, optimization, and (optionally) distributed systems.  If you're trying to reach me, [email 📫](mailto:code@idorosen.com) is the best way.  (If I don't respond within 48 hours, please try again - my spam filter can be over-eager.)
 
 <!--
 **ido/ido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
